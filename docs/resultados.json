@@ -1,0 +1,258 @@
+[
+  {
+    "modulo": "AP",
+    "entrada": "AAAA#RRRR#FFFF#LLLL",
+    "comprimento": 19,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABAB#RRRRRR#GFGF#LLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "BBBB#RRRRRRRR#GGGG#LLLLLLLL",
+    "comprimento": 27,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "BABA#RRRRRR#FGFG#LLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "AABB#RRRRR#GGFF#LLLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "BBAA#RRRRRRR#FFGG#LLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "AAAAA#RRRR#FFFFF#LLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABAAB#RRRRRRRR#GFFGF#LLLLLLLL",
+    "comprimento": 29,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABAB#RRRRRR#FGFG#LLLLLL",
+    "comprimento": 23,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "AAAA#RRRR#FFF#LLLL",
+    "comprimento": 18,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "BBBB#RRRRRRRR#GGGGG#LLLLLLLL",
+    "comprimento": 28,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABAB#RRRRRR#GGFF#LLLLLL",
+    "comprimento": 23,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABAB##GFGF#LLLLLLLLLLLL",
+    "comprimento": 23,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABAB#RRRRRRRRRRRR#GFGF#",
+    "comprimento": 23,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABABRRRRRR#GFGF#LLLLLL",
+    "comprimento": 22,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "AP",
+    "entrada": "ABAB#RRARRR#GFGF#LLLLLL",
+    "comprimento": 23,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "AAAA#RRRR#FFFF#LLLL",
+    "comprimento": 19,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRRR#GFGF#LLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "BBBB#RRRRRRRR#GGGG#LLLLLLLL",
+    "comprimento": 27,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "BABA#RRRRRR#FGFG#LLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "AABB#RRRRRR#GGFF#LLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "BBAA#RRRRRR#FFGG#LLLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "AAAAA#RRRRR#FFFFF#LLLLL",
+    "comprimento": 23,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAAB#RRRRRRR#GFFGF#LLLLLLL",
+    "comprimento": 27,
+    "esperado": "ACEITA",
+    "obtido": "ACEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRR#GFGF#LLLLLL",
+    "comprimento": 22,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRRRR#GFGF#LLLLLL",
+    "comprimento": 24,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRRR#GFGF#LLLLL",
+    "comprimento": 22,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRRR#GFGF#LLLLLLL",
+    "comprimento": 24,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRR#GFGF#LLLLL",
+    "comprimento": 21,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRRRR#GFGF#LLLLLLL",
+    "comprimento": 25,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB#RRRRRR#FGFG#LLLLLL",
+    "comprimento": 23,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  },
+  {
+    "modulo": "ALL",
+    "entrada": "ABAB##GFGF#LLLLLLLLLLLL",
+    "comprimento": 23,
+    "esperado": "REJEITA",
+    "obtido": "REJEITA",
+    "passou": true
+  }
+]
